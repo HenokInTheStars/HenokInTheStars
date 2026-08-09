@@ -8,8 +8,9 @@
 ### 💬 About Me
 
 ✨ Passionate about crafting **end-to-end AI/ML solutions** for real-world impact.
+
 📊 Focused on **data science, machine learning, and MLOps** (deployment & scaling).
-💡 Exploring **creative AI applications** and **Amharic NLP** for localization.
+
 🎯 Goal: To build robust, user-centric AI products and contribute to innovation.
 
 ---
