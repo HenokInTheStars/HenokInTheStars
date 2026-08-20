@@ -5,13 +5,6 @@
 ## Header
 
 Hi, I'm **HenokInTheStars**. This README shares what I'm building, the tools I use, and the work I'm proud of.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=HenokInTheStars&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=HenokInTheStars&theme=github-dark" alt="HenokInTheStars hero section" />
-  </picture>
-</p>
 ## Skills
 
 <p align="center">
@@ -44,15 +37,13 @@ Hi, I'm **HenokInTheStars**. This README shares what I'm building, the tools I u
     <img src="https://www.gitskins.com/api/section/projects?username=HenokInTheStars&theme=github-dark" alt="HenokInTheStars projects section" />
   </picture>
 </p>
-## Heatmap
-
 ## Connect
 
-Email: hhhenoksolomon@gmail.com
+LinkedIn: www.linkedin.com/in/henok-solomon-ai · Email: hhhenoksolomon@gmail.com
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=HenokInTheStars&theme=github-dark&email=hhhenoksolomon%40gmail.com&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=HenokInTheStars&theme=github-dark&email=hhhenoksolomon%40gmail.com" alt="HenokInTheStars social section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=HenokInTheStars&theme=github-dark&linkedin=www.linkedin.com%2Fin%2Fhenok-solomon-ai&email=hhhenoksolomon%40gmail.com&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=HenokInTheStars&theme=github-dark&linkedin=www.linkedin.com%2Fin%2Fhenok-solomon-ai&email=hhhenoksolomon%40gmail.com" alt="HenokInTheStars social section" />
   </picture>
 </p>
