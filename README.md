@@ -73,7 +73,7 @@ ask_me:      RAG, FastAPI, Next.js, turning messy data into decisions
 </p>
 
 <details>
-<summary><sub>↑ ↑ ↓ ↓ ← → ← → B A</sub></summary>
+<summary><sub>↑ ↑ ↓ ↓ ← → ← →</sub></summary>
 
 <br />
 
